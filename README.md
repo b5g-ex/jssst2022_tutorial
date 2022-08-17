@@ -59,10 +59,3 @@ https://jssst2022.wordpress.com/tutorial/
 ## Question?
 
 チュートリアルの内容や事前準備についての質問などがありましたら，[本リポジトリのIssues](https://github.com/b5g-ex/jssst2022_tutorial/issues)にてお知らせください．開催事後の技術的な質問や相談も承ります．
-
-## TODO
-
-- [ ] 環境変数の設定をREADMEに記載する（bashとfish）
-- [ ] オンライン参加者向けのmicroSD作成方法を記載する
-- [ ] .livemdを作るかどうか検討する
-
