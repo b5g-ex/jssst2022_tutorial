@@ -25,7 +25,7 @@ https://jssst2022.wordpress.com/tutorial/
 
 ## Preparation
 
-ハンズオン参加者に事前準備いただく機材などをお示しします．
+「2. Nervesハンズオン」参加者に事前準備いただく機材などをお示しします．
 
 ### Onsite Participants
 
@@ -40,7 +40,7 @@ https://jssst2022.wordpress.com/tutorial/
 - インターネット接続環境
 - 有線LAN接続可能なノートPC
   - 有線LANコネクタでも可
-  - Zoom視聴用とハンズオンのデバイスは別にされることをおすすめします
+  - Zoom視聴用のデバイス（PCやタブレット）は別にされることをおすすめします
 - LANケーブル（PCとラズパイの接続用・短いものでOK）
 - Raspberry Pi 4
   - メモリ容量は不問（会場では4GBを使用予定）
@@ -58,4 +58,5 @@ https://jssst2022.wordpress.com/tutorial/
 
 ## Question?
 
-チュートリアルの内容や事前準備についての質問などがありましたら，[本リポジトリのIssues](https://github.com/b5g-ex/jssst2022_tutorial/issues)にてお知らせください．開催事後の技術的な質問や相談も承ります．
+チュートリアルの内容や事前準備についての質問などがありましたら，[本リポジトリのIssues](https://github.com/b5g-ex/jssst2022_tutorial/issues)にてお知らせください．
+開催事後でも，ハンズオン内容への技術的な質問やチュートリアル資料に関する相談も承ります．
