@@ -54,8 +54,31 @@ https://jssst2022.wordpress.com/tutorial/
 - [Grove LED](https://www.marutsu.co.jp/pc/i/829294/)
 - [Grove AHT20 I2C](https://www.marutsu.co.jp/pc/i/34539580/)
 
-オンライン参加の方は，事前にmicroSDカードにファームウェアイメージを書き込んでいただく必要があります．詳細な手順は8月26日(金)までにここに掲載する予定です．
+オンライン参加の方は，事前にmicroSDカードにファームウェアイメージを書き込んでいただく必要があります．
 
+#### Firmware Setup
+ファームウェアをmicroSDカードに書き込むには，[fwup](https://github.com/fwup-home/fwup#installing)または，[Etcher](https://www.balena.io/etcher/)を用います．
+Windows環境ではEtcher,Mac/Linux環境ではfwupを用いることをお勧めします．
+
+##### fwup
+[本リポジトリのRelease](https://github.com/b5g-ex/jssst2022_tutorial/releases/tag/v1.0.0)よりv1.0.0のファームウェアnerves_livebook.fw をダウンロードします．
+
+microSDを挿入したカードリーダーをPCに接続しておきます．
+
+ダウンロードしたフォルダに移動し，
+```
+fwup nerves_livebook.fw
+```
+を実行します．管理者権限が求められますので，linux環境ではsudoを付与し，Windows/WSL環境では権限を求めるウィンドウが表示されるのでOKで進んでください．
+##### Etcher
+
+[本リポジトリのRelease](https://github.com/b5g-ex/jssst2022_tutorial/releases/tag/v1.0.0)よりv1.0.0のファームウェアnerves_livebook.img をダウンロードします．
+
+microSDを挿入したカードリーダーをPCに接続しておきます．
+
+Etcherを起動し，「Flash from file」をクリックし，ダウンロードしたファイルを選択します．
+「Select target」でmicroSDカードのドライブが表示されていることを確認し，チェックします．
+「Flash」をクリックします，権限を求めるウィンドウが表示される場合はYesで進んでください．
 ## Question?
 
 チュートリアルの内容や事前準備についての質問などがありましたら，[本リポジトリのIssues](https://github.com/b5g-ex/jssst2022_tutorial/issues)にてお知らせください．
