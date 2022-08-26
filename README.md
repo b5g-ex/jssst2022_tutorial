@@ -67,7 +67,7 @@ microSDを挿入したカードリーダーをPCに接続しておきます．
 
 ダウンロードしたフォルダに移動し，
 ```
-fwup nerves_livebook.fw
+sudo fwup nerves_livebook.fw
 ```
 を実行します．管理者権限が求められますので，linux環境ではsudoを付与し，Windows/WSL環境では権限を求めるウィンドウが表示されるのでOKで進んでください．
 ##### Etcher
