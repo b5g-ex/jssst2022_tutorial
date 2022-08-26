@@ -23,7 +23,6 @@ https://jssst2022.wordpress.com/tutorial/
 1. Nervesハンズオン [90min]
    - [基本編](https://docs.google.com/presentation/d/1SSof8iCU8ta1IjrGitoAZcCxtdR0tJm_1nYFSRBWJ9k/edit?usp=sharing)
    - [応用編](https://docs.google.com/presentation/d/1sc6bmsCPnFua7dy6wIRjZlGDQL2yM7AuznwsxPutBb0/edit?usp=sharing)
-   - [進捗確認シート](https://docs.google.com/spreadsheets/d/1B6cp5qny8sdtoheSNEIiQno2elFvXV0mx_eN6yBtx14/edit?usp=sharing)
 1. 小水力発電制御システムへの展開事例 [30min]
 1. 5G/Beyond 5Gへの展開 [30min]
 
